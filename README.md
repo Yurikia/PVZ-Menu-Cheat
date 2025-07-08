@@ -32,6 +32,14 @@ How to install 2.4.2++
 4. Press Default(TAB) to open the menu
 5. Enjoy
 
+How to install 2.6.1++
+1. (Optional) Install certificate.crt so windows won't flag the file
+2. (One time) download redist.rar and extract it in cheat folder.
+3. Extract the file anywhere(I recomend to extract it inside the PVZ directory)
+4. Run the Injector.exe(Point to the PVZ.exe and injector.dll if it asked you)
+5. Press Default(TAB) to open the menu
+6. Enjoy
+
 Pics:
 ![image](https://github.com/user-attachments/assets/3509a4e2-897c-4776-8d94-15b79f36c41b)
 ![image](https://github.com/user-attachments/assets/10367e65-070e-4fe5-b424-782b946636cc)
